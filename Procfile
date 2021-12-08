@@ -1,0 +1,1 @@
+web: gunicorn SAVDOSOTIQ.wsgi --log-file -
